@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa39b5085dc49c448362dc8b2698021, type: 3}
+  m_Name: AudioSource
+  m_EditorClassIdentifier: 
+  audioSourceList:
+  - audiosource: leftgun
+    clip: {fileID: 8300000, guid: ed121ad4c92119a499e998e92398cd67, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: shotgun
+    clip: {fileID: 8300000, guid: 35d05821ebcabd4459583340016d67a7, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: rifle
+    clip: {fileID: 8300000, guid: b52660c0750b71d45addf3a35361a13b, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: leftattack
+    clip: {fileID: 8300000, guid: 4c541fa36d7265a478826855015833d3, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: groundattack
+    clip: {fileID: 8300000, guid: 638158ca6cd08f7478de66283861464f, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: slash
+    clip: {fileID: 8300000, guid: 648545ec7c3e5fb4ebd168c505d75f4b, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: hit_s
+    clip: {fileID: 8300000, guid: 707ab24d09827994a9a0ab2306efbe21, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: hit_b
+    clip: {fileID: 8300000, guid: 2269ac8bdac373743bfdf9a14ec06467, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: hit_player_s
+    clip: {fileID: 8300000, guid: 61080a4469eea9a4f9130e7062e6bac7, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: hit_player_b
+    clip: {fileID: 8300000, guid: ae894556faa5d564d980aa484b0c4a1c, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: menu
+    clip: {fileID: 8300000, guid: fef6f86f03ccf7b4eb22d477f673f1d1, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: recover
+    clip: {fileID: 8300000, guid: 49b8bd3952d41944081ff6fd9bd91cc5, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: click
+    clip: {fileID: 8300000, guid: e5261e39c7a87bf47b26d9b428a745fe, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: clear
+    clip: {fileID: 8300000, guid: 9a0e5643e654289418151ff68bae9f5a, type: 3}
+    volum: 1
+    loop: 0
+  - audiosource: dead
+    clip: {fileID: 8300000, guid: e57a0007c990c644eb3babfda1711a03, type: 3}
+    volum: 1
+    loop: 0
